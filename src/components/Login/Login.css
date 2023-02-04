@@ -1,0 +1,9 @@
+.form-container-login {
+    max-width: 500px;
+    height: 600px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 104px auto;
+    box-shadow: -12px 13px 5px 12px #ffe0b3;
+}
